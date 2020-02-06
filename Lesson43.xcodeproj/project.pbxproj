@@ -13,6 +13,8 @@
 		8D94EC4F23EC519000B52432 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D94EC4D23EC519000B52432 /* Main.storyboard */; };
 		8D94EC5123EC519200B52432 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D94EC5023EC519200B52432 /* Assets.xcassets */; };
 		8D94EC5423EC519200B52432 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D94EC5223EC519200B52432 /* LaunchScreen.storyboard */; };
+		8D94EC5D23EC520900B52432 /* FirstTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D94EC5B23EC520900B52432 /* FirstTableCell.swift */; };
+		8D94EC5E23EC520900B52432 /* FirstTableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8D94EC5C23EC520900B52432 /* FirstTableCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		8D94EC5023EC519200B52432 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D94EC5323EC519200B52432 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D94EC5523EC519200B52432 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D94EC5B23EC520900B52432 /* FirstTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstTableCell.swift; sourceTree = "<group>"; };
+		8D94EC5C23EC520900B52432 /* FirstTableCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FirstTableCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				8D94EC5023EC519200B52432 /* Assets.xcassets */,
 				8D94EC5223EC519200B52432 /* LaunchScreen.storyboard */,
 				8D94EC5523EC519200B52432 /* Info.plist */,
+				8D94EC5B23EC520900B52432 /* FirstTableCell.swift */,
+				8D94EC5C23EC520900B52432 /* FirstTableCell.xib */,
 			);
 			path = Lesson43;
 			sourceTree = "<group>";
@@ -128,6 +134,7 @@
 				8D94EC5423EC519200B52432 /* LaunchScreen.storyboard in Resources */,
 				8D94EC5123EC519200B52432 /* Assets.xcassets in Resources */,
 				8D94EC4F23EC519000B52432 /* Main.storyboard in Resources */,
+				8D94EC5E23EC520900B52432 /* FirstTableCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +148,7 @@
 				8D94EC4C23EC519000B52432 /* ViewController.swift in Sources */,
 				8D94EC4823EC519000B52432 /* AppDelegate.swift in Sources */,
 				8D94EC4A23EC519000B52432 /* SceneDelegate.swift in Sources */,
+				8D94EC5D23EC520900B52432 /* FirstTableCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
